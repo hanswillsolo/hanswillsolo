@@ -3,7 +3,8 @@ This repository is about my website that I have created.
 I have created the website to advertise my skills regarding my course that I am currently studying at 
 Staffordshire University. I am currently studying Games Development.
 
-##favorite games
+
+## Favorite games
 1.  Tom Clancy's Rainbow 6 Siege
 2.  Dead by Daylight
 3.  Apex Legends 
