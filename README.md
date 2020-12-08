@@ -10,4 +10,4 @@ Staffordshire University. I am currently studying Games Development.
 4.  Call of duty Black Ops Cold War
 5.  Grand Theft Auto 5
 ###
-https://octodex.github.com/daftpunktocat-guy/ - automatic!
+![daftpunktocat-guy]
